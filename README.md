@@ -13,6 +13,7 @@
 * GitHubで使用するMarkdown形式の書き方
 
 ### 次の予定
+* AWS Well-Architected Frameworkホワイトペーパーの深堀
 * ハンズオン動画
   * AWS IAM 基本のキ
   * スケーラブルウェブサイト構築
