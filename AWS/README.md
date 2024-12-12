@@ -1,4 +1,9 @@
 ### 2024/12/12 AWS Well-Architected Frameworkとは  
+#### AWS Well-Architected Framework tool
+* Self-check用のツール。  
+  AWSアカウント必須のため、後回し  
+  aws free tierの時間が勿体ないのでまだしない
+
 #### 【AWS Black Belt Online Seminar】AWS Well-Architected Framework(動画)
 
 * レビューは初期に  
@@ -40,6 +45,8 @@
     * 失敗を予測する
   * ベストプラクティス
 
+#### 次の予定
+* AWS Well-Architected Frameworkホワイトペーパーを満足するところまで確認
 
 ### 2024/12/11 クラウドの初歩の初歩から
 #### はじめてのアマゾン ウェブ サービス（動画）
