@@ -7,6 +7,18 @@
 ## 学習の目的
 エンジニアとして各サービスをより深く理解するとともに、種類問わずアウトプットする習慣を作る
 
+### 2024/12/11 AWS Well-Architected FrameworkとGitHubの勉強
+* AWS Well-Architected Frameworkの進め方
+* AWS Well-Architected Frameworkホワイトペーパーの確認
+* GitHubで使用するMarkdown形式の書き方
+
+### 次の予定
+* ハンズオン動画
+  * AWS IAM 基本のキ
+  * スケーラブルウェブサイト構築
+* GitHubのプロフィール更新
+
+
 ### 2024/12/11 クラウドの初歩の初歩から
 #### はじめてのアマゾン ウェブ サービス（動画）
 
