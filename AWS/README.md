@@ -1,7 +1,13 @@
 ### 2024/12/13 AWS Well-Architected Frameworkとは
-#### AWS Well-Architected Framework ホワイトペーパー
+#### [AWS Well-Architected Framework ホワイトペーパー](https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/welcome.html)
 * オペレーショナル・エクセレンス  
   * ベストプラクティス
+  * 4つのベストプラクティス領域
+    * 組織
+     * 優先順位の設定
+     * 顧客ニーズの評価
+     * リスク評価
+     * 継続的な改善
 
 
 ### 2024/12/12 AWS Well-Architected Frameworkとは  
