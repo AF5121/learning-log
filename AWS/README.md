@@ -1,5 +1,15 @@
+### 2024/12/14 CLF対策
+#### AWS認定クラウドプラクティショナー（CLF-C01）対策トレーニング Cloud Practitioner(https://www.youtube.com/watch?v=ELVAXUVFZaM&ab_channel=Maruchintechch)
+* クラウドの特徴
+  * 可用性, スケーラビリティ, コスト最適化, 
+  * AWSはデファクトスタンダードになってる
+  * クラウドの分類(IaaS, PaaS, SaaS,)
+  * 責任共有モデル  
+    セキュリティの責任範囲, クラウド側はあくまで土台まで, 土台の上で構築するアプリやらシステムやらはユーザ側が作った部分
+  * クラウドは3種類, パブリッククラウド, ハイブリッドクラウド, プライベートクラウド
+
 ### 2024/12/13 AWS Well-Architected Frameworkとは
-#### [AWS Well-Architected Framework ホワイトペーパー](https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/welcome.html)
+#### AWS Well-Architected Framework ホワイトペーパー(https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/welcome.html)
 * オペレーショナル・エクセレンス
  * ベストプラクティス
     * 4つのベストプラクティス領域  
