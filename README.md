@@ -7,7 +7,11 @@
 ## 学習の目的
 エンジニアとして各サービスをより深く理解するとともに、種類問わずアウトプットする習慣を作る
 
-### 2024/12/1
+### 2024/12/13
+* AWS Well-Architected Frameworkホワイトペーパーの深堀
+* GitHubのプロフィール更新
+### 次の予定
+* CLF対策
 
 ### 2024/12/11 AWS Well-Architected FrameworkとGitHubの勉強
 * AWS Well-Architected Frameworkの進め方
