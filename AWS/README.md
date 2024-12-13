@@ -1,3 +1,9 @@
+### 2024/12/13 AWS Well-Architected Frameworkとは
+#### AWS Well-Architected Framework ホワイトペーパー
+* オペレーショナル・エクセレンス  
+  * ベストプラクティス
+
+
 ### 2024/12/12 AWS Well-Architected Frameworkとは  
 #### AWS Well-Architected Framework tool
 * Self-check用のツール。  
