@@ -34,12 +34,33 @@
     * タグ付け  
       リソースを識別するためのメタデータ, 部署名とか色々
   * Security, Identity&Compliance
-    * a
-    * a
-    * a
-    * a
-    * a
-    * a
+    * AWS IAM  
+      ユーザやグループに対し,サービスやリソースへの認証と認可を管理する
+    * AWS STS(Security Token Service)  
+      AWSのリソースのアクセスをコントロール, 一時的なセキュリティ認証情報として使用する
+    * AWS KMS(Key Management Service)  
+      暗号化キーの作成と制御を行うマネジメントサービス
+    * AWS Certificate Manager  
+      証明書の発行およびキーの作成保存更新を行う サイトシールは別途必要
+    * Amazon Cognito  
+      Webアプリケーションのサインアップ, サインアップ機能のアクセスを制御
+    * AWS Secrets Manager  
+      シークレット情報のライフサイクルを一元管理, DB認証情報やパスワードなど
+    * Amazon Macie  
+      S3に保存されたデータから機密データを検出, KMSによって暗号化
+    * Amazon GuardDuty  
+      ストレージやログサービスを分析し脅威となるデータを抽出, ランサムや悪意のあるアクセスなど
+    * Amazon Detective  
+      各種サービスのログデータを自動的に収集, 機械学習統計的分析を用いて詳細な調査を行う
+    * AWS WAF  
+      WebApplicationFirewall, CloudFrontやApplicationLoadBalancerなどのリクエストに対応
+    * AWS Network Firewall  
+      VPC向けのステートフルなファイアウォール
+    * AWS Shield  
+      DDoS攻撃からAWSリソースを保護するサービス
+    * AWS Firewall Manager  
+      複数アカウントでAWS WAF,AWS Shield Advanced, VPCセキュリティグループ, AWS Network Firewall, Amazon Route53 DNS Firewall, 3rd Party製Firewallの一元管理
+  * Storage
     * a
     * a
     * a
