@@ -7,6 +7,12 @@
   * 責任共有モデル  
     セキュリティの責任範囲, クラウド側はあくまで土台まで, 土台の上で構築するアプリやらシステムやらはユーザ側が作った部分
   * クラウドは3種類, パブリッククラウド, ハイブリッドクラウド, プライベートクラウド
+  * AWS 構築ツール  
+    コンソール, CLI, SDK
+  *
+
+#### 次の予定
+* CLF-C01を一通りやり、CLF-C02の変化部分を確認
 
 ### 2024/12/13 AWS Well-Architected Frameworkとは
 #### AWS Well-Architected Framework ホワイトペーパー(https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/welcome.html)
@@ -35,9 +41,6 @@
          
       * 運用
       * 進化
-
-#### ハンズオンはじめの一歩: AWS アカウントの作り方 & IAM 基本のキ
-
 
 #### 次の予定
 
