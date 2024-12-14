@@ -101,10 +101,32 @@
       VDI(仮想デスクトップサービス)
     * AWS Compute Optimizer  
       EC2,EBS,Lambdaの使用状況を分析し、リソースサイズが適切かどうか確認をする
-  * Networking & Content Delivery
-    * a
-    * a
-    * a
+  * Networking & Content Delivery  
+    * AWS VPC  
+      AWS上の仮想アドレス空間, Subnetの中に実際のAWSリソースを配置
+    * VPC Flow Logs  
+      ENIのIPトラフィック情報をキャプチャ
+    * VPC Peering  
+      VPC間をプライベートで接続
+    * Gateway
+      * Internet Gateway  
+        VPCとインターネットとの通信を可能にするVPCコンポーネント, VPC1つに1つのみ
+      * NAT Gateway  
+        プライベートIPをグローバルIPに変換
+      * VGW(Virtual Gateway)  
+        VPCとVPNやDirectConnectを接続, AWSとオンプレを接続する際に使用
+      * Customer Gateway  
+        オンプレミス側のVPNエンドポイント
+    * Virtual Private Network  
+      AWS Client VPNを使用して、AWSリソースに安全にアクセス
+    * AWS Direct Connect  
+      専用線サービス, 単一アカウントの専用線接続かホスト接続
+    * Amazon CloudFront  
+      クライアントとコンテンツの間に設置, キャッシュを用い低レイテンシでコンテンツを配信
+    * AWS Global Accelerator  
+      クライアントとコンテツの間に設置, キャッシュはない, エッジロケーションを使用することでパフォーマンスを向上
+    * Amazon Route53
+    * Elastic Load Balancing
     * a
     * a
 
