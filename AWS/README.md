@@ -68,11 +68,40 @@
       アクセス頻度の低いデータ保存用, 保存は安いが取り出しは高い
     * AWS Storage Gateway  
       AWS上のストレージをオンプレ環境に対してシームレスに接続するサービス
-    * Amazon EFS
-    * Amazon EBS
-    * a
-    * a
-    * a
+    * Amazon EFS  
+      複数のインスタンスにマウント可能, 
+    * Amazon EBS  
+      ブロックストレージでクラスを選択可能, 単一のインスタンスにマウント
+    * Amazon FSx 
+      フルマネージドなファイルストレージサービス
+    * AWS Backup  
+      バックアップの一元化, 自動化
+    * AWS Snow Family  
+      物理ストレージを使い大きなデータを転送, 1週間~10日間程度かかる
+  * Compute
+    * Amazon EC2  
+      仮想サーバ
+    * Amazon EC2 Auto Scaling  
+      必要に応じインスタンスを増やして,負荷分散を行う ロードバランサーを通す
+    * AWS Auto Scaling
+      複数のサービスにまたがる複数のリソースをスケーリング, DynamoDBやAuroraなど
+    * Amazon ECS    
+      Dockerを利用
+    * Amazon EKS  
+      Kubernetesを利用
+    * AWS Lambda  
+      サーバレスでコードを実行できるフルマネージドサービス
+    * AWS Batch  
+      数十万規模のバッチ処理を実行するためのサービス
+    * Amazon Lightsail  
+      EC2より低価格で規格化された仮想サーバ, 月額固定
+    * Amazon Elastic Beanstalk  
+      インフラやスケーリングを自動で構築するサービス, configファイルでカスタマイズ
+    * Amazon WorkSpaces  
+      VDI(仮想デスクトップサービス)
+    * AWS Compute Optimizer  
+      EC2,EBS,Lambdaの使用状況を分析し、リソースサイズが適切かどうか確認をする
+  * Networking & Content Delivery
     * a
     * a
     * a
