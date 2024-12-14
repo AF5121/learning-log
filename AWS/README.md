@@ -60,7 +60,21 @@
       DDoS攻撃からAWSリソースを保護するサービス
     * AWS Firewall Manager  
       複数アカウントでAWS WAF,AWS Shield Advanced, VPCセキュリティグループ, AWS Network Firewall, Amazon Route53 DNS Firewall, 3rd Party製Firewallの一元管理
-  * Storage
+  * Storage  
+    オブジェクトストレージ, ブロックストレージ, ファイルストレージの3種
+    * S3  
+      最も汎用的なオブジェクトストレージサービス, データの性質によりストレージのクラスを選択可能(耐久性,可用性)
+    * S3 Glacier  
+      アクセス頻度の低いデータ保存用, 保存は安いが取り出しは高い
+    * AWS Storage Gateway  
+      AWS上のストレージをオンプレ環境に対してシームレスに接続するサービス
+    * Amazon EFS
+    * Amazon EBS
+    * a
+    * a
+    * a
+    * a
+    * a
     * a
     * a
     * a
