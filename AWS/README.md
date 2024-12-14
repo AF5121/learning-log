@@ -9,7 +9,40 @@
   * クラウドは3種類, パブリッククラウド, ハイブリッドクラウド, プライベートクラウド
   * AWS 構築ツール  
     コンソール, CLI, SDK
-  *
+* 各サービスの説明
+  * Management, Monitoring& Governance
+    * AWS Organizations  
+      複数のアカウントを階層構造で管理, SCPの一括管理, 請求の一括管理, 他サービスとの連携
+    * Amazon CloudWatch (logs, Events, Alarms, Logs Insights, Dashboards)  
+      統合的な運用監視サービス
+    * AWS CloudTrail  
+      いつ,だれ,なにをしたか記録 証跡を集める。90日までは無料保管, 長期保管はS3などのストレージサービス併用
+    * AWS Config  
+      AWSリソースの構成変更をログとして残す, 他Configルールを策定し、準拠されているか確認出来る
+    * AWS License Manager  
+      MS,SAP,Oracle,IBMなどのソフトウェアライセンスを一元管理
+    * AWS Systems Manager  
+      ハイブリッド環境向けの管理, オンプレとクラウドを一元管理
+    * AWS Health  
+      パフォーマンスの変更や障害などの情報をタイムリーに提供
+    * AWS CloudFormation  
+      IaC, AWSのリソースをJOSNやYAMLで記述して、テンプレート化して実行
+    * AWS Budgets  
+      予算のしきい値を超える, 超えそうな時アラートを発報
+    * AWS Cost Explorer  
+      各リソースのコストや使用状況を確認
+    * タグ付け  
+      リソースを識別するためのメタデータ, 部署名とか色々
+  * Security, Identity&Compliance
+    * a
+    * a
+    * a
+    * a
+    * a
+    * a
+    * a
+    * a
+    * a
 
 #### 次の予定
 * CLF-C01を一通りやり、CLF-C02の変化部分を確認
