@@ -127,11 +127,10 @@
       クライアントとコンテツの間に設置, キャッシュはない, エッジロケーションを使用することでパフォーマンスを向上
     * Amazon Route53
     * Elastic Load Balancing
-    * a
-    * a
 
 #### 次の予定
-* CLF-C01を一通りやり、CLF-C02の変化部分を確認
+* Database, Application Integration, Analytics, Developer Tools   1時間位？
+* 出来れば問題集
 
 ### 2024/12/13 AWS Well-Architected Frameworkとは
 #### AWS Well-Architected Framework ホワイトペーパー(https://docs.aws.amazon.com/ja_jp/wellarchitected/latest/framework/welcome.html)
