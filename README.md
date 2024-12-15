@@ -11,12 +11,12 @@
 * CLF対策トレーニング残り全部
 * 問題集を解く No.1-50
 
-### 次の予定
+#### 次の予定
 * 問題集を解く
 
 ### 2024/12/14
 * CLF対策トレーニング
-### 次の予定
+#### 次の予定
 * CLFの残り
 * 出来れば問題集
 
@@ -24,7 +24,7 @@
 ### 2024/12/13
 * AWS Well-Architected Frameworkホワイトペーパーの深堀
 * GitHubのプロフィール更新
-### 次の予定
+#### 次の予定
 * CLF対策
 
 ### 2024/12/11 AWS Well-Architected FrameworkとGitHubの勉強
@@ -32,7 +32,7 @@
 * AWS Well-Architected Frameworkホワイトペーパーの確認
 * GitHubで使用するMarkdown形式の書き方
 
-### 次の予定
+#### 次の予定
 * AWS Well-Architected Frameworkホワイトペーパーの深堀
 * ハンズオン動画
   * AWS IAM 基本のキ
