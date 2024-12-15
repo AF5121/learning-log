@@ -51,7 +51,7 @@
   * AWS Marketplace
     3rd partyのSWやServiceを検索, 比較, 購入
     
-  * 学習リソース
+  * 学習リソース AWS公式
     * AWS Well-Architected(https://aws.amazon.com/jp/architecture/well-architected/)
     * Amazon WerServieブログ(https://aws.amazon.com/jp/blogs/news/)
     * AWS ホワイトペーパー(https://aws.amazon.com/jp/whitepapers/)
@@ -62,7 +62,18 @@
       * AWS Summit
       * AWS re:Invent
       * AWS Black Belt Online Seminar
-
+       
+  * 学習リソース 非公式
+    * Stephane Maarek
+    * Jon Bonso
+      
+    * A Cloud Guru
+    * Digital Cloud Traing
+      
+    * Stack Overflow
+    * Breifmenow
+    * Exam Topics
+  
 
 
 ### 2024/12/14 CLF対策
