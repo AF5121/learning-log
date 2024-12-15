@@ -74,7 +74,11 @@
     * Breifmenow(http://www.briefmenow.org/amazon/)
     * Exam Topics(https://www.examtopics.com/exams/amazon/)
   
+* 問題集回答  
+  No.1-50
 
+#### 次の予定
+* 問題集を解く
 
 ### 2024/12/14 CLF対策
 #### AWS認定クラウドプラクティショナー（CLF-C01）対策トレーニング Cloud Practitioner(https://www.youtube.com/watch?v=ELVAXUVFZaM&ab_channel=Maruchintechch)
