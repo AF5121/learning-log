@@ -63,16 +63,16 @@
       * AWS re:Invent
       * AWS Black Belt Online Seminar
        
-  * 学習リソース 非公式
-    * Stephane Maarek
-    * Jon Bonso
+  * 学習リソース 非公式<sub>英語圏が圧倒的に情報が多い</sub>
+    * Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer(https://www.udemy.com/user/stephane-maarek/)
+    * Jon Bonso AWS Certified Cloud Practitioner, Developer, Solutions Architect(https://www.udemy.com/user/jonjonbonso/)
       
-    * A Cloud Guru
-    * Digital Cloud Traing
+    * A Cloud Guru(https://www.pluralsight.com/cloud-guru)
+    * Digital Cloud Traing(https://digitalcloud.training/)
       
-    * Stack Overflow
-    * Breifmenow
-    * Exam Topics
+    * Stack Overflow(https://stackoverflow.com/collectives/aws)
+    * Breifmenow(http://www.briefmenow.org/amazon/)
+    * Exam Topics(https://www.examtopics.com/exams/amazon/)
   
 
 
