@@ -1,4 +1,5 @@
 ### 2024/12/15 CLF対策
+#### AWS認定クラウドプラクティショナー（CLF-C01）対策トレーニング Cloud Practitioner(https://www.youtube.com/watch?v=ELVAXUVFZaM&ab_channel=Maruchintechch)
   * Networking & Content Delivery  
     * Amazon Route53  
       DNSサービス, ELBを使わずLBっぽい動きが出来る
@@ -40,6 +41,27 @@
       ビルド,テスト環境をフルマネージドで提供
     * AWS CodeDeploy
       本番環境へデプロイするサービス, デプロイするアプリはS3やGithubを指定
+
+  * Pricing Calculator  
+    見積もりツール
+  * AWS Trusted Advisor  
+    AWSアーキテクチャを分析し、ベストプラクティスの推奨事項を提供
+  * AWS Partner Network
+    コンサルトとテクノロジー
+  * AWS Marketplace
+    3rd partyのSWやServiceを検索, 比較, 購入
+    
+  * 学習リソース
+    * AWS Well-Architected(https://aws.amazon.com/jp/architecture/well-architected/)
+    * Amazon WerServieブログ(https://aws.amazon.com/jp/blogs/news/)
+    * AWS ホワイトペーパー(https://aws.amazon.com/jp/whitepapers/)
+    * ナレッジセンター(https://repost.aws/ja/knowledge-center)
+    * AWS Skill Builder(https://aws.amazon.com/jp/training/digital/)
+    * コミニケション・イベント(https://aws.amazon.com/jp/events/aws-event-resource/)  
+      * AWS JAWS-UG
+      * AWS Summit
+      * AWS re:Invent
+      * AWS Black Belt Online Seminar
 
 
 
