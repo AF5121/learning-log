@@ -1,3 +1,48 @@
+### 2024/12/15 CLF対策
+  * Networking & Content Delivery  
+    * Amazon Route53  
+      DNSサービス, ELBを使わずLBっぽい動きが出来る
+    * Elastic Load Balancing  
+      負荷分散, DNS切り替えなくEC2インスタンス切り替え可能, ALB, NLB, GLBが存在
+  * Database
+    RDB, NoSQL(Key-Value, 列指向, ドキュメント指向, グラフ指向)
+    * Amazon RDS  
+      リレーショナル型データベース
+    * Amazon Aurora  
+      MySQL, PosgreSQLとの互換かつ高性能
+    * Amazon Redshift  
+      データシェアハウス向け
+    * Amazon DynamoDB  
+      Key-Value型
+    * Amazon ElasticCache  
+      インメモリ型DB, RDBとApp間にキャッシュとして配置するなど
+  * Application Integration  
+      モノリシック, マイクロサービス
+    * Amazon Simple Queue Service(SQS)  
+      フルマネージドなメッセージキューサービス
+    * Amazon Simple Notification Service(SNS)  
+      メッセージ通知サービス,EmailやSMSなど
+    * Amazon EventBridge  
+      イベントデータを他クラウドやアプリケーションと連携
+    * AWS Step Functions  
+      ワークフローを構成し実行プロセスを構築管理自動化
+  * Analytics
+    * Amazon Kinesis Data Streams, Data Firehose, Data Analytics, Video Streams  
+      ストリーミングデータを扱う,
+    * Amazon Athena  
+      標準SQLによりS3内のデータを分析
+    * Amazon QuickSight  
+      BIツール, AWSだけでなく3rd Partyツールのデータソースもサポート
+  * Developer Tools
+    * AWS CodeCommit  
+      Gitのレポジトリと連携, 通知やDiffも可能
+    * AWS CodeBuild  
+      ビルド,テスト環境をフルマネージドで提供
+    * AWS CodeDeploy
+      本番環境へデプロイするサービス, デプロイするアプリはS3やGithubを指定
+
+
+
 ### 2024/12/14 CLF対策
 #### AWS認定クラウドプラクティショナー（CLF-C01）対策トレーニング Cloud Practitioner(https://www.youtube.com/watch?v=ELVAXUVFZaM&ab_channel=Maruchintechch)
 * クラウドの特徴
