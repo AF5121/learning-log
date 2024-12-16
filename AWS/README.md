@@ -1,3 +1,43 @@
+### 2024/12/16 CLF対策
+* 問題集回答 
+  No.51-100
+
+* 気づき
+  * AWS Trusted Advisorはもう一度確認
+  * 正答率90%超えではあるがケアレスミスが1問あり。
+  
+* No.68 AWSイベントが会社のAWSリソースに影響を与える可能性がある場合、アラートを提供するAWSサービスは次のうちどれですか？
+  AWS Personal Health Dashboard
+  AWS service health Dashboard  
+  AWS Trusted Advisor  
+  AWS Infrastructure Event Management  
+* No.78 オンプレミスサーバーにアプリケーションをデプロイすることができるサービスは次のうちどれですか。（2つ選択してください）  
+  AWS Elastic Beanstalk
+  AWS OpsWorks
+  AWS CodeDeploy
+  AWS Batch
+  AWS X-Ray
+* No.88 コンプライアンスレポートと証明書を取得するためには、どのAWSサービスを使用すればよいですか？  
+  AWS Artifact
+  AWS Lambda
+  Amazon Inspector
+  AWS Certificate Manager
+* No.92 AWSのお客様が新しいAmazon RDSクラスターを起動するために使用できるのは次のうちどれですか？正しい組み合わせを選択してください。  
+  AWS コンシェルジュ
+  AWS CloudFormation
+  Amazon S3
+  Amazon EC2 Auto Scaling
+  AWS Management Console
+* No.96 AWSリソースの運用上の洞察を得て、それらのリソースを使用するアプリケーションに影響を与える可能性のある問題を迅速に特定するのに役立つAWSサービスはどれですか？  
+  Amazon Inspector
+  AWS Systems Manager
+  AWS Trusted Advisor
+  AWS Health Dashboard
+
+#### 次の予定
+* 問題集を解く
+* 不得意なサービスの再確認
+
 ### 2024/12/15 CLF対策
 #### AWS認定クラウドプラクティショナー（CLF-C01）対策トレーニング Cloud Practitioner(https://www.youtube.com/watch?v=ELVAXUVFZaM&ab_channel=Maruchintechch)
   * Networking & Content Delivery  
